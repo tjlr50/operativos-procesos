@@ -3,5 +3,5 @@
 ## Mensaje
 ![][1]
 
-[1]:bokitoki.jpg
+[1]:images/bokitoki.jpg
 
